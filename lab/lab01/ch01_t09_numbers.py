@@ -1,2 +1,3 @@
 cucumbers
 price_per_cucumber
+total_cost 
