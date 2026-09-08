@@ -1,2 +1,2 @@
 product = 11*11
-remainder = 1398 
+remainder = 1398 % 11
