@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-#city
+#city population
 city_pop = 340000
