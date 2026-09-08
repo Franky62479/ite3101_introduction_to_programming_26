@@ -1,2 +1,4 @@
-haiku = "The old pond, "+ \n"A frog jumps in:" + \n"plop"
+haiku = "The old pond, "+
+"A frog jumps in:"+
+"plop"
 print(haiku)
