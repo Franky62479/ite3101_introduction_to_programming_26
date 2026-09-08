@@ -11,5 +11,6 @@ september_rainfall = 5.16
 october_rainfall = 7.20
 november_rainfall = 5.06
 december_rainfall = 4.06
+
 annual_rainfall = september_rainfall + december_rainfall + november_rainfall + october_rainfall + september_rainfall
 print(annual_rainfall)
