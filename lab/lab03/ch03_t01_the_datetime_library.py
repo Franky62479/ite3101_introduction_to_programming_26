@@ -1,3 +1,3 @@
 from datetime import datetime
-day = datetime.now()
+day = now.day
 print(day)
