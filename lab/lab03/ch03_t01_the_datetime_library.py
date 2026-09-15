@@ -1,3 +1,3 @@
 from datetime import datetime
-day = datetime.
-print()
+day = datetime()
+print(day)
