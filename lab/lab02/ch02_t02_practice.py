@@ -6,6 +6,6 @@ viking = "Teresa"
 # print(caesar)
 # print(praline)
 # print(viking)
- print(caesar)
+print(caesar)
  print(praline)
  print(viking)
