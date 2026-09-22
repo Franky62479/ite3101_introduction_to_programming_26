@@ -13,4 +13,4 @@ bool_three = (5 == 3) and (88 == 99)
 bool_four = (-67 > 69) or (67 >= 67)
 
 # Make me true!
-bool_five = not f
+bool_five = not False
