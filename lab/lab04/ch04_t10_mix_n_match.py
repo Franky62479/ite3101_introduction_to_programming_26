@@ -10,7 +10,7 @@ bool_two = (1 == 1) or (1>=1)
 bool_three = (5 == 3) and (88 == 99)
 
 # Make me true!
-bool_four = (-67 > 69) or 67 >= 67
+bool_four = (-67 > 69) or (67 >= 67)
 
 # Make me true!
 bool_five = None
