@@ -11,6 +11,6 @@ bool_three = 1 = 1
 
 # Make me false!
 bool_four = -67 = 
-
+69
 # Make me true!
 bool_five = 67 >= 67
