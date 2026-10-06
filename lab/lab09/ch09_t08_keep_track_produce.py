@@ -12,4 +12,3 @@ stock = {
 }
 for key in prices:
     print("stork: %s" % prices[key])
-    print("stork: %s" % stock[key])
