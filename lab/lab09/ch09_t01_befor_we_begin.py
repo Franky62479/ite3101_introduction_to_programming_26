@@ -1,3 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
 
-for i in range 
+for i in range name[]
