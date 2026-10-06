@@ -11,5 +11,5 @@ stock = {
     "pear": 15,
 }
 for key in prices:
-    if key 
+    if key == ""
  
