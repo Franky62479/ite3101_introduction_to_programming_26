@@ -1,2 +1,2 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for i in re
+for i in range names:
