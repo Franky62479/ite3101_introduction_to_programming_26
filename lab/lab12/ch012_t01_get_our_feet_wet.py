@@ -1,1 +1,1 @@
-bou
+board = []
