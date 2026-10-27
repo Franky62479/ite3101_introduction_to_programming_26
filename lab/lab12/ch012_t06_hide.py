@@ -17,7 +17,7 @@ def random_row(board_in):
     return board
 
 
-def random_col(board):
+def random_col(board_in):
         board = randint(0, len(board_in)-1)
     return board
 print_board(board)
