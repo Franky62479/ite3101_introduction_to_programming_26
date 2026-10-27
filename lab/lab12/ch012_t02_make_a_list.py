@@ -1,2 +1,2 @@
 board = []
-for i in range 
+for i in range (0,)
