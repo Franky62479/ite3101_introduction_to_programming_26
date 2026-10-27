@@ -2,5 +2,5 @@ board = []
 for i in range(5):
     board.append(['O'] * 5)
 
-def print_borad
+def print_borad():
 #print(board)
