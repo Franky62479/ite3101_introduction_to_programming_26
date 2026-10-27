@@ -12,8 +12,8 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 # Add your code below!
-def random_row(board: List{list]str]]):
-    board = randint(0, len(board_in)-1)
+def random_row(board: List[list[str]]):
+randint(0, len(board_in)-1)
     return board
 
 
