@@ -5,4 +5,4 @@ def factorial(x : int):
         n = n // 10
     return sum
 
-print(f)
+print(factorial(1234))
