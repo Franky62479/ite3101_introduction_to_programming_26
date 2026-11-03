@@ -5,3 +5,4 @@ def is_prime(x,int):
         for i in range(2, x - 1):
             if x % == 0:
                 return False
+            
