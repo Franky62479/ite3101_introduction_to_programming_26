@@ -1,1 +1,1 @@
-def digit_sum
+def digit_sum(n):
