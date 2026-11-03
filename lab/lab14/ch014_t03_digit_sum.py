@@ -5,4 +5,4 @@ def digit_sum(n):
         n = n // 10
     return sum
 
-print (digit_sum())
+print (digit_sum(int))
