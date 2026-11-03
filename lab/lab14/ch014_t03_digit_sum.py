@@ -6,4 +6,4 @@ def digit_sum(n):
     return sum
 
 
-print(digit_sum(input))
+print(digit_sum(123456789101112))
