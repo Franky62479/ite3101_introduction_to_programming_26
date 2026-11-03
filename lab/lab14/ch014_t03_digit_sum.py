@@ -3,3 +3,4 @@ def digit_sum(n):
     if n > 0:
         sun += n % 10
         n // 10
+return 
