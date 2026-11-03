@@ -4,4 +4,4 @@ def is_prime(x,int):
     else:
         for i in range(2, x - 1):
             if x % == 0:
-                
+
