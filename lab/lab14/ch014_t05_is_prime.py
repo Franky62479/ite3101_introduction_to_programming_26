@@ -2,4 +2,4 @@ def is_prime(x,int):
     if  x < 2:
         return False
     else:
-        for i in range()
+        for i in range(2, x +1)
