@@ -5,6 +5,6 @@ year = now.year
 month = now.month
 day = now.day
 print(year, month, day)
-print(year)
+print(now.year)
 print(month)
 print(day)
