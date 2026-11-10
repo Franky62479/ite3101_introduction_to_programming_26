@@ -7,4 +7,4 @@ day = now.day
 print(year, month, day)
 print(now.year)
 print(now.month)
-print(day)
+print(now.day)
