@@ -1,4 +1,6 @@
 from datetime import datetime
 now = datetime.now()
 print(now.year, now.month, now.day)
-tear
+year = now.year
+month = now.month
+day = n
