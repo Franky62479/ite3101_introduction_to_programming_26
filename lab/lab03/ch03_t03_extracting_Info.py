@@ -3,4 +3,5 @@ now = datetime.now()
 print(now.year, now.month, now.day)
 year = now.year
 month = now.month
-day = n
+day = now.day
+print()
