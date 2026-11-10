@@ -4,4 +4,4 @@ print(now.year, now.month, now.day)
 year = now.year
 month = now.month
 day = now.day
-print()
+print(year, month, day)
